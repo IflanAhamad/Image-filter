@@ -13,7 +13,7 @@ html{
 
 
 body{
-  background-color: #353b48;
+  background-color: #15284f;
   padding: 1rem;
 }
 
@@ -59,9 +59,9 @@ transform: scale(1.5);
     height: 30px;
     border: none;
     font-size: 0.7rem;
-    background-color: #ffe609;
+    background-color: #d4c110;
     color:#fff;
-    border: 2px solid #b7a606;
+    border: 2px solid #d4c110;
     cursor: pointer;
     transition: 0.3s;
     border-radius: 3px;
@@ -70,7 +70,7 @@ transform: scale(1.5);
 .btn-group button:hover,
 .btn-group .btn-clicked
 {
-  background-color: #353b48;
+  background-color: #15284f;
 }
 
 #search{
@@ -78,7 +78,7 @@ transform: scale(1.5);
   height: 30px;
   outline: none;
   padding: 0 10px;
-  border:2px solid #b7a606;
+  border:2px solid #d4c110;
   border-radius: 3px;
   font-size: 0.6rem;
 }
